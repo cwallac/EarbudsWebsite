@@ -254,3 +254,19 @@ box-shadow: 1px 2px 1px #d1d1d1;
 
 }
 
+.gwt-Anchor {
+  padding: 0px;
+}
+
+.ecwid-productBrowser-categoryPath {
+  visibility: hidden;
+  }
+
+.ecwid-productBrowser-auth-mini-horizontal {
+  visibility: hidden;
+  }
+
+  .ecwid-productBrowser-head {
+  color:white;
+  }
+
